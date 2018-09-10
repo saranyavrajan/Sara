@@ -62,5 +62,5 @@ test {
 	}
 }
 sourceSets {
-	test.java.svcDir 'src/main'
+	test.java.srcDir 'src/main'
 	}
